@@ -1,0 +1,21 @@
+﻿  Menu.cpp
+c:\opencv\opencv\build\include\opencv2\core\cvstd.hpp(599): warning C4793: cv::String::String: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(392): warning C4793: cv::Mat::Mat: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(681): warning C4793: cv::Mat::release: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(1872): warning C4793: cv::SparseMat::addref: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(3473): warning C4793: cv::UMat::addref: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: cv::detail::PtrOwner::incRef: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: cv::detail::PtrOwner::decRef: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(580): warning C4793: cv::Mat::operator=: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(681): warning C4793: cv::Mat::release: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+  Проект9.vcxproj -> C:\Users\vladw\OneDrive\Documents\Visual Studio 2015\Projects\RadonTransform 12\x64\Release\Проект9.exe
+  Проект9.vcxproj -> C:\Users\vladw\OneDrive\Documents\Visual Studio 2015\Projects\RadonTransform 12\x64\Release\Проект9.pdb (Full PDB)

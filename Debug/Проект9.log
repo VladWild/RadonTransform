@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\opencv\opencv\build\include\opencv2\core\cvstd.hpp(599): warning C4793: cv::String::String: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(392): warning C4793: cv::Mat::Mat: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(681): warning C4793: cv::Mat::release: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(1872): warning C4793: cv::SparseMat::addref: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(3473): warning C4793: cv::UMat::addref: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: cv::detail::PtrOwner::incRef: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: cv::detail::PtrOwner::decRef: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+  main.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+opencv_world310.lib(opencv_world310.dll) : fatal error LNK1112: Єшя ъюья№■ЄхЁр ьюфєы  "x64" яЁюЄштюЁхўшЄ Єшяє Ўхыхтюую ъюья№■ЄхЁр "X86"

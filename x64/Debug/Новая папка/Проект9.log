@@ -1,0 +1,62 @@
+﻿  Menu.cpp
+  RadonTransform.cpp
+RadonTransform.cpp(24): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+RadonTransform.cpp(27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+RadonTransform.cpp(28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+RadonTransform.cpp(29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+RadonTransform.cpp(30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+RadonTransform.cpp(77): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+RadonTransform.cpp(80): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+RadonTransform.cpp(98): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+RadonTransform.cpp(99): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+RadonTransform.cpp(100): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+RadonTransform.cpp(105): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+RadonTransform.cpp(106): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+RadonTransform.cpp(108): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+RadonTransform.cpp(110): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+RadonTransform.cpp(111): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+RadonTransform.cpp(116): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+RadonTransform.cpp(117): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+RadonTransform.cpp(146): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+RadonTransform.cpp(147): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+RadonTransform.cpp(149): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+RadonTransform.cpp(150): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+RadonTransform.cpp(158): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+RadonTransform.cpp(159): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+c:\opencv\opencv\build\include\opencv2\core\cvstd.hpp(599): warning C4793: cv::String::String: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(392): warning C4793: cv::Mat::Mat: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(681): warning C4793: cv::Mat::release: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(1872): warning C4793: cv::SparseMat::addref: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(3473): warning C4793: cv::UMat::addref: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: cv::detail::PtrOwner::incRef: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: cv::detail::PtrOwner::decRef: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(580): warning C4793: cv::Mat::operator=: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\cvstd.hpp(599): warning C4793: cv::String::String: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(392): warning C4793: cv::Mat::Mat: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(681): warning C4793: cv::Mat::release: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(1872): warning C4793: cv::SparseMat::addref: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(3473): warning C4793: cv::UMat::addref: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(580): warning C4793: cv::Mat::operator=: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: cv::detail::PtrOwner::incRef: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+c:\opencv\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: cv::detail::PtrOwner::decRef: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+  CannyClass.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+RadonTransform.obj : error LNK2005: "int __cdecl compare(void const *,void const *)" (?compare@@YAHPEBX0@Z) єцх юяЁхфхыхэ т Menu.obj
+RadonTransform.obj : error LNK2005: "int __cdecl compare(void const *,void const *)" (?compare@@$$FYAHPEBX0@Z) єцх юяЁхфхыхэ т Menu.obj
+C:\Users\vladw\OneDrive\Documents\Visual Studio 2015\Projects\RadonTransform 11\x64\Debug\╧ЁюхъЄ9.exe : fatal error LNK1169: юсэрЁєцхэ ьэюуюъЁрЄэю юяЁхфхыхээ√щ ёшьтюы - юфшэ шыш сюыхх

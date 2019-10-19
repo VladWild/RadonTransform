@@ -1,0 +1,4 @@
+﻿  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  CannyClass.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Проект9.vcxproj -> C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\RadonTransform 13\x64\Debug\Проект9.exe
+  Проект9.vcxproj -> C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\RadonTransform 13\x64\Debug\Проект9.pdb (Partial PDB)
